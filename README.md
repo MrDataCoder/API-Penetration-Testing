@@ -1,7 +1,7 @@
 # API-Penetration-Testing
 API Penetration Testing Checklists
 
-Authentication and authorization:
+# Authentication and authorization:
 
 
 Verify the strength of the authentication mechanisms used by the API, such as passwords, tokens, or API keys.
