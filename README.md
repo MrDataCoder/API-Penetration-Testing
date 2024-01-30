@@ -28,7 +28,7 @@ API Penetration Testing Checklists
     Verify if the API follows the principle of least privilege and ensures that users can access only the necessary data.
     Verify if the API implements proper data validation and sanitization to prevent data tampering or exposure.
 
-Session Management
+# Session Management
 
     Verify if the API uses secure session management mechanisms such as tokenization or session IDs.
     Check if the session tokens are invalidated after a certain period of inactivity or logout.
